@@ -1,5 +1,5 @@
 # Xray_Classification_PyTorch
-Project adapted from Datacamp
+Project adapted from Datacamp <br>
 Task: Classification + Fine-Tuning Deep Learning (ResNet-18) Model 
 
 <img width="800" height="323" alt="x-rays_sample" src="https://github.com/user-attachments/assets/72edebe5-330d-4ec8-9d52-d2d7a89e3303" />
