@@ -1,6 +1,9 @@
 # Xray_Classification_PyTorch
-Project from Datacamp
+Project adapted from Datacamp
 Task: Classification + Fine-Tuning Deep Learning (ResNet-18) Model 
+
+<img src="../extra/x-rays_sample.png" align="center"/>
+&nbsp
 
 ## Background
 Pneumonia is one of the leading respiratory illnesses worldwide, and its timely and accurate diagnosis is essential for effective treatment. Manually reviewing chest X-rays is a critical step in this process, and AI can provide valuable support by helping to expedite the assessment. 
